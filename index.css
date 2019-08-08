@@ -1,0 +1,31 @@
+#div1{
+    background: rgb(28, 131, 190);
+    font-family: 'Poppins', sans-serif;
+   padding: 20px;
+ 
+}
+ 
+ body{
+     background: rgb(125, 201, 231);
+     font-family: 'Poppins', sans-serif;
+ }
+ #div2{
+     background: white;
+     font-family: 'Poppins', sans-serif; 
+      padding: 20px;
+      
+ }
+ .hash1{
+     margin-left: 117px;
+margin-top: 100px;
+font-family: 'Poppins', sans-serif;
+color: white
+ }
+ button{
+    margin-top: 10px;
+    
+}
+input{
+    margin-top: 10px;
+    
+}
